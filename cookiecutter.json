@@ -1,7 +1,7 @@
 {
-    "repo_name": "cookiecutter-flexteck-ds",
-    "author_name": "Flexteck",
-    "description": "A cookiecutter template for data science projects",
-    "python_version": "3.10"
+  "repo_name": "my-data-science-project",
+  "author_name": "Anthony Kanu",
+  "description": "A data science workflow project",
+  "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
 }
 
